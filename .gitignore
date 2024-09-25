@@ -1,0 +1,53 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/.vs
+/bin
+/obj
+W0Abrufen/vorlage.txt
+W0Abrufen/vorlage2.txt
+*.user
+App.config
+Wetter.txt
+*.bak
+*.config
+*.pdb
+/W0Abrufen/obj
+/W0Abrufen/Properties
+/W1WetterLaden/obj
+/W2inDB/.vs
+/W2inDB/obj
+/W3Tage/obj
+/W4Monate/obj
+/WLib/.vs
+/WLib/obj
+/xxWetterLib

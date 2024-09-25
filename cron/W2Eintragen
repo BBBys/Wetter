@@ -1,0 +1,2 @@
+#!/bin/sh
+mono /usr/local/wetter/W2inDB.exe /var/local/wetter/wetter.txt

@@ -1,0 +1,3 @@
+#!/bin/sh
+test -e /usr/local/wetter/wetterwarnung.py || exit 0
+python3 /usr/local/wetter/wetterwarnung.py

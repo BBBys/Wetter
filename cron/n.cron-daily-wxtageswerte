@@ -1,0 +1,4 @@
+#!/bin/sh
+
+test -x /usr/local/wetter/wettertageswerte.py || exit 0
+python3 /usr/local/wetter/wettertageswerte.py
